@@ -1,0 +1,8 @@
+# Arquivos pesados e pessoais não sobem para o GitHub
+videos/*
+fotos/*
+saida/*
+!*/.gitkeep
+!saida/calendario/
+.DS_Store
+.env
