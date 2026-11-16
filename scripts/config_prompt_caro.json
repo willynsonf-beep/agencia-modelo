@@ -1,0 +1,25 @@
+{
+  "video": "1108.mov",
+  "saida": "reel-prompt-caro-final.mp4",
+  "rotulos_topo": ["{{SEU_ARROBA}}", "{{SEU_METODO}}"],
+
+  "gancho": {
+    "linha_fina": "Seu trabalho do mês",
+    "linha_forte": "em 4 minutos?",
+    "ate_segundos": 3.2
+  },
+
+  "destacar_palavras": ["minutos", "83%", "margem", "consequência", "executa"],
+  "zoom_nas_palavras": ["minutos", "83%", "consequência"],
+
+  "momentos": [
+    {"tipo": "dado", "palavra": "83%", "numero": "83%", "texto": "dos social medias\njá usam IA", "duracao": 2.8},
+    {"tipo": "frase", "palavra": "consequência", "linha_fina": "O post é", "linha_forte": "consequência.", "comeca_antes": 1.0, "duracao": 2.2}
+  ],
+
+  "broll": [],
+
+  "cta": {"palavra": "Manda", "texto": "Manda pra um social media ↗"},
+
+  "efeitos_sonoros": false
+}

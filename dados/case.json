@@ -1,0 +1,52 @@
+{
+  "edicao": "04",
+  "data": "30 · 11",
+  "foto": "fotos/case-04/loja-rockefeller.jpg",
+  "foto_alt": "Fachada da loja Anthropologie no Rockefeller Center, em Nova York",
+  "foto2": "fotos/case-04/loja.jpg",
+  "credito_foto": "Fotos: Wikimedia Commons (CC BY)",
+  "capa": {
+    "titulo": {"antes": "Por que a Anthropologie trocou post por ", "destaque": "série?", "depois": ""},
+    "sub": "Uma comédia em episódios de 90 segundos.",
+    "sub_forte": "O público volta para ver o próximo."
+  },
+  "tela2": {
+    "tag": "O que fizeram",
+    "titulo": "Uma minissérie de comédia escrita por uma&nbsp;creator.",
+    "paragrafos": [
+      "The Holiday Party: episódios de 90 segundos, de 11 a 19/11, com trailer e gancho no fim.",
+      "<strong>No Instagram, TikTok, YouTube, Pinterest e Reddit.</strong>"
+    ],
+    "fonte": "Fonte: Digiday, 12/11/2026"
+  },
+  "tela3": {
+    "tag": "O que ninguém te contou",
+    "titulo": {"antes": "Post some no feed. Série cria ", "destaque": "hábito.", "depois": ""},
+    "paragrafos": [
+      "Outra série do tipo, We Are MICE, somou 1,3 milhão de visualizações no Instagram.",
+      "<strong>A conta é alcance, salvamento e venda. Não seguidor.</strong>"
+    ],
+    "citacao": "Queríamos que fosse engraçado e ousado, mas seguro para a marca.",
+    "autor": "Becky Rooney, fundadora da produtora Rooscreen",
+    "fonte": "Fonte: Digiday, 12/11/2026"
+  },
+  "tela4": {
+    "tag": "No seu cliente de R$ 2 mil",
+    "titulo": "Como trocar post solto por série no cliente pequeno:",
+    "passos": [
+      ["Crie um quadro&nbsp;fixo", "Mesmo dia, mesmo nome, mesmo formato toda semana."],
+      ["Termine com&nbsp;gancho", "\"Semana que vem: o bolo que quase deu errado.\""],
+      ["Meça quem&nbsp;volta", "Salvamento e mensagem valem mais que seguidor novo."]
+    ],
+    "fonte": "Exemplos ilustrativos"
+  },
+  "tela5": {
+    "frase": "Post é visita. Série é endereço.",
+    "faixa": {"antes": "O público ", "destaque": "volta.", "depois": ""},
+    "paragrafos": [
+      "Toda segunda eu escolho um case e mostro o negócio por trás dele.",
+      "<strong>Comenta</strong> qual marca você quer ver na próxima edição.",
+      "<strong>Salva</strong> para levar na próxima reunião com cliente."
+    ]
+  }
+}
